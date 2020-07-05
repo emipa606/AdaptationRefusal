@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gun_ChargePistol -->
+
+  <AdRef_Gun_ChargePistol.label>Charge Pistol</AdRef_Gun_ChargePistol.label>
+  <AdRef_Gun_ChargePistol.description>An ancient pistol converted into an energy weapon. The ammunition has been replaced with a self-charging bacteria battery and the barrel has been reinforced. It's still a short range weapon, but deadlier.</AdRef_Gun_ChargePistol.description>
+
+  <AdRef_Bullet_ChargePistol.label>Charge shot</AdRef_Bullet_ChargePistol.label>
+
+
+  <!-- Gun_ChargeSniper -->
+
+  <AdRef_Gun_ChargeSniper.label>Charge Sniper Rifle</AdRef_Gun_ChargeSniper.label>
+  <AdRef_Gun_ChargeSniper.description>An ancient rifle converted into an energy weapon. The cartridge chamber has been replaced with a self-charging bacteria battery and the scope has been greatly improved. Very good range, Good power, low rate of fire.</AdRef_Gun_ChargeSniper.description>
+
+  <AdRef_BulletChargeSniper.label>Charge shot</AdRef_BulletChargeSniper.label>
+
+
+  <!-- Gun_ChargeAssault -->
+
+  <AdRef_Gun_ChargeAssault.label>Charge Assault Rifle</AdRef_Gun_ChargeAssault.label>
+  <AdRef_Gun_ChargeAssault.description>An ancient assault rifle converted into an energy weapon. The ammunition has been replaced with a self-charging bacertia battery and the structure has been heavily reinforced. Greatly increased damage and accuracy. Less range and burst count, but fires very quickly.</AdRef_Gun_ChargeAssault.description>
+
+  <AdRef_BulletChargeAssault.label>Charge shot</AdRef_BulletChargeAssault.label>
+
+
+</LanguageData>

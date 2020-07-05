@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- AlgaeKryllRaw -->
+
+  <AdRef_ThingDef_AlgaeKryllRaw.label>Algae-Kryll Goo</AdRef_ThingDef_AlgaeKryllRaw.label>
+  <AdRef_ThingDef_AlgaeKryllRaw.description>A nutrient-rich food that contains high levels of proteins, stabilized with a fine nanowire mesh</AdRef_ThingDef_AlgaeKryllRaw.description>
+
+
+  <!-- ElectrodrinkRaw -->
+
+  <AdRef_ThingDef_ElectrodrinkRaw.label>Electrolyte Solution</AdRef_ThingDef_ElectrodrinkRaw.label>
+  <AdRef_ThingDef_ElectrodrinkRaw.description>A canister filled with electrolyte solution, stabilized with a fine nanowire mesh</AdRef_ThingDef_ElectrodrinkRaw.description>
+
+
+  <!-- SynthMeal -->
+
+  <AdRef_ThingDef_SynthMeal.label>synth meal</AdRef_ThingDef_SynthMeal.label>
+  <AdRef_ThingDef_SynthMeal.description>A synthetic mixture of Algae-Kryll Goo and Electrolyte Solution. Everything the body needs, and then some. Addictive, disgusting, and strangely delicious.</AdRef_ThingDef_SynthMeal.description>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TaleDef>
+    <defName>AdRef_TaleDefs_SynthMealAddicted</defName>
+    <label>addicted to synth meals</label>
+    <taleClass>Tale_SinglePawn</taleClass>
+    <type>Volatile</type>
+    <baseInterest>0.35</baseInterest>
+    <ignoreChance>0.5</ignoreChance>
+    <rulePack>
+      <rulesStrings>
+        <li>tale_noun-&gt;[pawn_nameShortDef]'s addiction</li>
+        <li>image-&gt;[pawn_nameFull] wandering around with glazed eyes [circumstance_group]</li>
+        <li>image-&gt;[pawn_nameFull] eating a synth meal [circumstance_group]</li>
+        <li>image-&gt;[pawn_nameFull] thinking about [pawn_possessive] next synth meal [circumstance_group]</li>
+        <li>image-&gt;[pawn_nameFull] drawing a synth meal in the dirt [circumstance_group]</li>
+        <li>circumstance_phrase-&gt;in front of a [terrainfeature]</li>
+        <li>circumstance_phrase-&gt;with obvious pleasure</li>
+        <li>circumstance_phrase-&gt;with glazed eyes</li>
+        <li>circumstance_phrase-&gt;in [pawn_possessive] sleep</li>
+        <li>circumstance_phrase-&gt;just for fun</li>
+        <li>desc_sentence-&gt;[pawn_pronoun] has a faraway look.</li>
+        <li>desc_sentence-&gt;Somewhere, a clock with [pawn_pronoun]'s name on it begins ticking faster.</li>
+        <li>desc_sentence-&gt;[pawn_pronoun] is semi-conscious, [pawn_possessive] tongue lolling out, drool dripping.</li>
+        <li>desc_sentence-&gt;[pawn_pronoun] is smiling deliriously.</li>
+        <li>desc_sentence-&gt;[pawn_pronoun] seems to have no idea what [pawn_possessive] is doing.</li>
+        <li>desc_sentence-&gt;A nearby [animal] is licking its lips.</li>
+        <li>desc_sentence-&gt;There is a [terrainfeature] in the background.</li>
+        <li>desc_sentence-&gt;A watching [outlander] places a bet on [pawn_possessive] fate.</li>
+      </rulesStrings>
+    </rulePack>
+  </TaleDef>
+</Defs>

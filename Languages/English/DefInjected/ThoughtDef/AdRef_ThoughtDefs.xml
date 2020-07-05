@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdRef_ThoughtDef_AteSynthMeal.stages.0.label>Ate a synth meal</AdRef_ThoughtDef_AteSynthMeal.stages.0.label>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.0.description>UGH! That was DISGUSTING!! I'm never touching a synth meal again!</AdRef_ThoughtDef_AteSynthMeal.stages.0.description>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.1.label>Ate another synth meal</AdRef_ThoughtDef_AteSynthMeal.stages.1.label>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.1.description>Yuck! Why did I do that?</AdRef_ThoughtDef_AteSynthMeal.stages.1.description>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.2.label>Getting used to synth meals</AdRef_ThoughtDef_AteSynthMeal.stages.2.label>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.2.description>I keep eating synth meals. Why do I do that? But it wasn't as bad as I expected it to be. Maybe I'm getting used to them?</AdRef_ThoughtDef_AteSynthMeal.stages.2.description>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.3.label>Ate too many synth meals</AdRef_ThoughtDef_AteSynthMeal.stages.3.label>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.3.description>I'm starting to have dreams about synth meals... That's scary! Right?</AdRef_ThoughtDef_AteSynthMeal.stages.3.description>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.4.label>Addicted to synth meals</AdRef_ThoughtDef_AteSynthMeal.stages.4.label>
+  <AdRef_ThoughtDef_AteSynthMeal.stages.4.description>*Hums happily*\n\n(This is either a happy drone or the early stages of heavy metal toxicity)</AdRef_ThoughtDef_AteSynthMeal.stages.4.description>
+
+
+</LanguageData>
