@@ -1,25 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <AdRef_WorkGiverDefs_DoBillsElectro.verb>collect</AdRef_WorkGiverDefs_DoBillsElectro.verb>
   <AdRef_WorkGiverDefs_DoBillsElectro.gerund>collecting</AdRef_WorkGiverDefs_DoBillsElectro.gerund>
-
   <AdRef_WorkGiverDefs_DoBillsKryll.verb>can</AdRef_WorkGiverDefs_DoBillsKryll.verb>
   <AdRef_WorkGiverDefs_DoBillsKryll.gerund>canning</AdRef_WorkGiverDefs_DoBillsKryll.gerund>
-
   <AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.label>craft at AR.small battery</AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.label>
   <AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.verb>craft</AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.verb>
   <AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.gerund>crafting</AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.gerund>
-
   <AdRef_WorkGiverDefs_DoBillsBacteriaBatteryLarge.verb>craft</AdRef_WorkGiverDefs_DoBillsBacteriaBatteryLarge.verb>
   <AdRef_WorkGiverDefs_DoBillsBacteriaBatteryLarge.gerund>crafting</AdRef_WorkGiverDefs_DoBillsBacteriaBatteryLarge.gerund>
-
   <AdRef_WorkGiverDefs_DoBillsSynthMeal.verb>prepare</AdRef_WorkGiverDefs_DoBillsSynthMeal.verb>
   <AdRef_WorkGiverDefs_DoBillsSynthMeal.gerund>synthesizing</AdRef_WorkGiverDefs_DoBillsSynthMeal.gerund>
-
   <AdRef_WorkGiverDefs_DoBillsBackalley.label>craft at AR.backalley</AdRef_WorkGiverDefs_DoBillsBackalley.label>
   <AdRef_WorkGiverDefs_DoBillsBackalley.verb>craft</AdRef_WorkGiverDefs_DoBillsBackalley.verb>
   <AdRef_WorkGiverDefs_DoBillsBackalley.gerund>assembling</AdRef_WorkGiverDefs_DoBillsBackalley.gerund>
-
-
 </LanguageData>

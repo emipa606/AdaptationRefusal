@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <AdRef_ThoughtDef_AteSynthMeal.stages.0.label>Ate a synth meal</AdRef_ThoughtDef_AteSynthMeal.stages.0.label>
   <AdRef_ThoughtDef_AteSynthMeal.stages.0.description>UGH! That was DISGUSTING!! I'm never touching a synth meal again!</AdRef_ThoughtDef_AteSynthMeal.stages.0.description>
   <AdRef_ThoughtDef_AteSynthMeal.stages.1.label>Ate another synth meal</AdRef_ThoughtDef_AteSynthMeal.stages.1.label>
@@ -11,6 +10,4 @@
   <AdRef_ThoughtDef_AteSynthMeal.stages.3.description>I'm starting to have dreams about synth meals... That's scary! Right?</AdRef_ThoughtDef_AteSynthMeal.stages.3.description>
   <AdRef_ThoughtDef_AteSynthMeal.stages.4.label>Addicted to synth meals</AdRef_ThoughtDef_AteSynthMeal.stages.4.label>
   <AdRef_ThoughtDef_AteSynthMeal.stages.4.description>*Hums happily*\n\n(This is either a happy drone or the early stages of heavy metal toxicity)</AdRef_ThoughtDef_AteSynthMeal.stages.4.description>
-
-
 </LanguageData>

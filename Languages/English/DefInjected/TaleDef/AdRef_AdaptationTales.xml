@@ -1,25 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <AdRef_TaleDefs_SynthMealAddicted.label>addicted to synth meals</AdRef_TaleDefs_SynthMealAddicted.label>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s addiction</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.0>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.1>image->[pawn_nameFull] wandering around with glazed eyes [circumstance_group]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.1>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.2>image->[pawn_nameFull] eating a synth meal [circumstance_group]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.2>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.3>image->[pawn_nameFull] thinking about [pawn_possessive] next synth meal [circumstance_group]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.3>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.4>image->[pawn_nameFull] drawing a synth meal in the dirt [circumstance_group]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.4>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.5>circumstance_phrase->in front of a [terrainfeature]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.5>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.6>circumstance_phrase->with obvious pleasure</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.6>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.7>circumstance_phrase->with glazed eyes</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.7>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.8>circumstance_phrase->in [pawn_possessive] sleep</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.8>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.9>circumstance_phrase->just for fun</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.9>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] has a faraway look.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.10>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.11>desc_sentence->Somewhere, a clock with [pawn_pronoun]'s name on it begins ticking faster.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.11>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] is semi-conscious, [pawn_possessive] tongue lolling out, drool dripping.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.12>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] is smiling deliriously.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.13>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] seems to have no idea what [pawn_possessive] is doing.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.14>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.15>desc_sentence->A nearby [animal] is licking its lips.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.15>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.16>desc_sentence->There is a [terrainfeature] in the background.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.16>
-  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.17>desc_sentence->A watching [outlander] places a bet on [pawn_possessive] fate.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.17>
-
-
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef]'s addiction</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.0>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] wandering around with glazed eyes [circumstance_group]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.1>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] eating a synth meal [circumstance_group]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.2>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] thinking about [pawn_possessive] next synth meal [circumstance_group]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.3>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] drawing a synth meal in the dirt [circumstance_group]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.4>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.5>circumstance_phrase-&gt;in front of a [terrainfeature]</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.5>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.6>circumstance_phrase-&gt;with obvious pleasure</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.6>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.7>circumstance_phrase-&gt;with glazed eyes</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.7>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.8>circumstance_phrase-&gt;in [pawn_possessive] sleep</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.8>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.9>circumstance_phrase-&gt;just for fun</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.9>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] has a faraway look.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.10>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.11>desc_sentence-&gt;Somewhere, a clock with [pawn_pronoun]'s name on it begins ticking faster.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.11>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_pronoun] is semi-conscious, [pawn_possessive] tongue lolling out, drool dripping.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.12>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] is smiling deliriously.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.13>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] seems to have no idea what [pawn_possessive] is doing.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.14>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.15>desc_sentence-&gt;A nearby [animal] is licking its lips.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.15>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.16>desc_sentence-&gt;There is a [terrainfeature] in the background.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.16>
+  <AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.17>desc_sentence-&gt;A watching [outlander] places a bet on [pawn_possessive] fate.</AdRef_TaleDefs_SynthMealAddicted.rulePack.rulesStrings.17>
 </LanguageData>

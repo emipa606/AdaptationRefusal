@@ -1,58 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- MoistureConverter -->
-
   <AdRef_ThingDefs_Moistureconverter.label>Moisture Converter</AdRef_ThingDefs_Moistureconverter.label>
   <AdRef_ThingDefs_Moistureconverter.description>A survival apparatus used to distill moisture into drinkable brews</AdRef_ThingDefs_Moistureconverter.description>
   <AdRef_ThingDefs_Moistureconverter_Blueprint.label>Moisture Converter (blueprint)</AdRef_ThingDefs_Moistureconverter_Blueprint.label>
   <AdRef_ThingDefs_Moistureconverter_Frame.label>Moisture Converter (building)</AdRef_ThingDefs_Moistureconverter_Frame.label>
   <AdRef_ThingDefs_Moistureconverter_Frame.description>A survival apparatus used to distill moisture into drinkable brews</AdRef_ThingDefs_Moistureconverter_Frame.description>
-
-
   <!-- AlgaeKryllFarm -->
-
   <AdRef_ThingDefs_AlgaeKryllFarm.label>Algae-Kryll Farm</AdRef_ThingDefs_AlgaeKryllFarm.label>
   <AdRef_ThingDefs_AlgaeKryllFarm.description>An enclosed artificial ecosystem used to produce food</AdRef_ThingDefs_AlgaeKryllFarm.description>
   <AdRef_ThingDefs_AlgaeKryllFarm_Blueprint.label>Algae-Kryll Farm (blueprint)</AdRef_ThingDefs_AlgaeKryllFarm_Blueprint.label>
   <AdRef_ThingDefs_AlgaeKryllFarm_Frame.label>Algae-Kryll Farm (building)</AdRef_ThingDefs_AlgaeKryllFarm_Frame.label>
   <AdRef_ThingDefs_AlgaeKryllFarm_Frame.description>An enclosed artificial ecosystem used to produce food</AdRef_ThingDefs_AlgaeKryllFarm_Frame.description>
-
-
   <!-- BacteriaBatterySmall -->
-
   <AdRef_ThingDefs_BacteriaBatterySmall.label>Bacteria Battery (Small)</AdRef_ThingDefs_BacteriaBatterySmall.label>
   <AdRef_ThingDefs_BacteriaBatterySmall.description>Produces electricity through a GE "Metal-breathingâ€ (Geobacter) bacteria, they have sufficient nutrition to last a couple of decades.</AdRef_ThingDefs_BacteriaBatterySmall.description>
   <AdRef_ThingDefs_BacteriaBatterySmall_Blueprint.label>Bacteria Battery (Small) (blueprint)</AdRef_ThingDefs_BacteriaBatterySmall_Blueprint.label>
   <AdRef_ThingDefs_BacteriaBatterySmall_Frame.label>Bacteria Battery (Small) (building)</AdRef_ThingDefs_BacteriaBatterySmall_Frame.label>
   <AdRef_ThingDefs_BacteriaBatterySmall_Frame.description>Produces electricity through a GE "Metal-breathingâ€ (Geobacter) bacteria, they have sufficient nutrition to last a couple of decades.</AdRef_ThingDefs_BacteriaBatterySmall_Frame.description>
-
-
   <!-- BacteriaBatteryLarge -->
-
   <AdRef_ThingDefs_BacteriaBatteryLarge.label>Bacteria Battery (Large)</AdRef_ThingDefs_BacteriaBatteryLarge.label>
   <AdRef_ThingDefs_BacteriaBatteryLarge.description>A larger version of the small bacteria battery. Has better power output, a work surface on top, and an extraction port to fill hand-held batteries...</AdRef_ThingDefs_BacteriaBatteryLarge.description>
   <AdRef_ThingDefs_BacteriaBatteryLarge_Blueprint.label>Bacteria Battery (Large) (blueprint)</AdRef_ThingDefs_BacteriaBatteryLarge_Blueprint.label>
   <AdRef_ThingDefs_BacteriaBatteryLarge_Frame.label>Bacteria Battery (Large) (building)</AdRef_ThingDefs_BacteriaBatteryLarge_Frame.label>
   <AdRef_ThingDefs_BacteriaBatteryLarge_Frame.description>A larger version of the small bacteria battery. Has better power output, a work surface on top, and an extraction port to fill hand-held batteries...</AdRef_ThingDefs_BacteriaBatteryLarge_Frame.description>
-
-
   <!-- MealSynthesizer -->
-
   <AdRef_ThingDefs_MealSynthesizer.label>Meal Synthesizer</AdRef_ThingDefs_MealSynthesizer.label>
   <AdRef_ThingDefs_MealSynthesizer.description>A device that synthesizes meals from Electrolyte Solution and Algae-Kryll Goo\n\nReclaims some steel too</AdRef_ThingDefs_MealSynthesizer.description>
   <AdRef_ThingDefs_MealSynthesizer_Blueprint.label>Meal Synthesizer (blueprint)</AdRef_ThingDefs_MealSynthesizer_Blueprint.label>
   <AdRef_ThingDefs_MealSynthesizer_Frame.label>Meal Synthesizer (building)</AdRef_ThingDefs_MealSynthesizer_Frame.label>
   <AdRef_ThingDefs_MealSynthesizer_Frame.description>A device that synthesizes meals from Electrolyte Solution and Algae-Kryll Goo\n\nReclaims some steel too</AdRef_ThingDefs_MealSynthesizer_Frame.description>
-
-
   <!-- BackAlleyWorkshop -->
-
   <AdRef_ThingDefs_BackAlleyWorkshop.label>Back Alley Armoury</AdRef_ThingDefs_BackAlleyWorkshop.label>
   <AdRef_ThingDefs_BackAlleyWorkshop.description>A copy of a back alley armoury, with the dirt, the grime and I suspect.. some illegal organs crates too</AdRef_ThingDefs_BackAlleyWorkshop.description>
   <AdRef_ThingDefs_BackAlleyWorkshop_Blueprint.label>Back Alley Armoury (blueprint)</AdRef_ThingDefs_BackAlleyWorkshop_Blueprint.label>
   <AdRef_ThingDefs_BackAlleyWorkshop_Frame.label>Back Alley Armoury (building)</AdRef_ThingDefs_BackAlleyWorkshop_Frame.label>
   <AdRef_ThingDefs_BackAlleyWorkshop_Frame.description>A copy of a back alley armoury, with the dirt, the grime and I suspect.. some illegal organs crates too</AdRef_ThingDefs_BackAlleyWorkshop_Frame.description>
-
-
 </LanguageData>

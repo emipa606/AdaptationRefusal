@@ -1,25 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- PrepareElectrodrinkRaw -->
-
   <AdRef_RecipeDefs_PrepareElectrodrinkRaw.label>Prepare Electrodrink</AdRef_RecipeDefs_PrepareElectrodrinkRaw.label>
   <AdRef_RecipeDefs_PrepareElectrodrinkRaw.description>prepare a canister of electrolytes solution with minerals and moisture.(makes 10 drinks)</AdRef_RecipeDefs_PrepareElectrodrinkRaw.description>
   <AdRef_RecipeDefs_PrepareElectrodrinkRaw.jobString>Collecting Moisture</AdRef_RecipeDefs_PrepareElectrodrinkRaw.jobString>
-
-
   <!-- PrepareAlgaeKryllRaw -->
-
   <AdRef_RecipeDefs_PrepareAlgaeKryllRaw.label>Can Algae-Kryll pallets</AdRef_RecipeDefs_PrepareAlgaeKryllRaw.label>
   <AdRef_RecipeDefs_PrepareAlgaeKryllRaw.description>Prepare a portion of protein-rich pallets.(makes 5 algae raw)</AdRef_RecipeDefs_PrepareAlgaeKryllRaw.description>
   <AdRef_RecipeDefs_PrepareAlgaeKryllRaw.jobString>Preparing kryll.</AdRef_RecipeDefs_PrepareAlgaeKryllRaw.jobString>
-
-
   <!-- PrepareSynthMeal -->
-
   <AdRef_RecipeDefs_PrepareSynthMeal.label>create synth meal</AdRef_RecipeDefs_PrepareSynthMeal.label>
   <AdRef_RecipeDefs_PrepareSynthMeal.description>Synthesizes Algae-Kryll Goo and Electrolyte Solution into a reasonably edible meal. Not recommended for prolonged consumption.(makes 10 meals)</AdRef_RecipeDefs_PrepareSynthMeal.description>
   <AdRef_RecipeDefs_PrepareSynthMeal.jobString>Creating synth meal.</AdRef_RecipeDefs_PrepareSynthMeal.jobString>
-
-
 </LanguageData>

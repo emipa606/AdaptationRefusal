@@ -1,39 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- CraftGun_ChargePistol -->
-
   <AdRef_RecipeDefs_CraftGun_ChargePistol.label>upgrade pistol</AdRef_RecipeDefs_CraftGun_ChargePistol.label>
   <AdRef_RecipeDefs_CraftGun_ChargePistol.description>Convert a basic pistol to an energy weapon (Needs: 15 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargePistol.description>
   <AdRef_RecipeDefs_CraftGun_ChargePistol.jobString>Upgrading pistol</AdRef_RecipeDefs_CraftGun_ChargePistol.jobString>
-
-
   <!-- CraftGun_ChargeSniper -->
-
   <AdRef_RecipeDefs_CraftGun_ChargeSniper.label>upgrade bolt-action rifle</AdRef_RecipeDefs_CraftGun_ChargeSniper.label>
   <AdRef_RecipeDefs_CraftGun_ChargeSniper.description>Convert a bolt-action rifle to an energy weapon (Needs: 25 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargeSniper.description>
   <AdRef_RecipeDefs_CraftGun_ChargeSniper.jobString>Upgrading bolt-action rifle</AdRef_RecipeDefs_CraftGun_ChargeSniper.jobString>
-
-
   <!-- CraftGun_ChargeAssault_a -->
-
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_a.label>upgrade assault rifle</AdRef_RecipeDefs_CraftGun_ChargeAssault_a.label>
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_a.description>Convert an assault rifle into an energy weapon (Needs: 25 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargeAssault_a.description>
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_a.jobString>Upgrading assault rifle</AdRef_RecipeDefs_CraftGun_ChargeAssault_a.jobString>
-
-
   <!-- CraftGun_ChargeAssault_b -->
-
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_b.label>Craft Charge Assault Rifle from Charge Pistol</AdRef_RecipeDefs_CraftGun_ChargeAssault_b.label>
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_b.description>Convert a charge pistol into a charge assault rifle (Needs: 50 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargeAssault_b.description>
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_b.jobString>Converting charge pistol</AdRef_RecipeDefs_CraftGun_ChargeAssault_b.jobString>
-
-
   <!-- CraftGun_ChargeAssault_c -->
-
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_c.label>Craft Charge Assault Rifle from Charge Sniper Rifle</AdRef_RecipeDefs_CraftGun_ChargeAssault_c.label>
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_c.description>Convert a charge sniper rifle into a true assault weapon (Needs: 25 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargeAssault_c.description>
   <AdRef_RecipeDefs_CraftGun_ChargeAssault_c.jobString>Assembling charge assault rifle</AdRef_RecipeDefs_CraftGun_ChargeAssault_c.jobString>
-
-
 </LanguageData>

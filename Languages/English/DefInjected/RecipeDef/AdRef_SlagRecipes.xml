@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- make steel slag -->
-
   <AdRef_RecipeDefs_Craft_Steel_Slag.label>Craft Steel Slag</AdRef_RecipeDefs_Craft_Steel_Slag.label>
   <AdRef_RecipeDefs_Craft_Steel_Slag.description>Craft steel slag.(makes 1 slag)</AdRef_RecipeDefs_Craft_Steel_Slag.description>
   <AdRef_RecipeDefs_Craft_Steel_Slag.jobString>Crafting</AdRef_RecipeDefs_Craft_Steel_Slag.jobString>
-
-
 </LanguageData>

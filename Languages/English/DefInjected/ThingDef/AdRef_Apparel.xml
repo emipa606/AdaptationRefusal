@@ -1,40 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Slag_Vest_Crude -->
-
   <AdRef_Apparel_Slag_Vest_Crude.label>Crude Slag Vest</AdRef_Apparel_Slag_Vest_Crude.label>
   <AdRef_Apparel_Slag_Vest_Crude.description>Constructed of recycled slag, this vest is encumbering but effective against bludgeoning. The gaps in the plates render it almost useless against animals, bullets, or fire. It's made of metal, so don't get electrocuted while wearing this.</AdRef_Apparel_Slag_Vest_Crude.description>
-
-
   <!-- Slag_Vest_Improved -->
-
   <AdRef_Apparel_Slag_Vest_Improved.label>Improved Slag Vest</AdRef_Apparel_Slag_Vest_Improved.label>
   <AdRef_Apparel_Slag_Vest_Improved.description>An improvement of the crude slag vest, this armour has been adapted to the frame of the user, and has had its looks upgraded with a hand of paint. Watch out for fire and electricity.</AdRef_Apparel_Slag_Vest_Improved.description>
-
-
   <!-- Slag_Plate_Crude -->
-
   <AdRef_Apparel_Slag_Plate_Crude.label>Crude Slag Plate Armour</AdRef_Apparel_Slag_Plate_Crude.label>
   <AdRef_Apparel_Slag_Plate_Crude.description>Constructed of recycled slag, this plate armour is encumbering but effective against bludgeoning. The gaps in the plates render it almost useless against animals, bullets, or fire. It's made of metal, so don't get electrocuted while wearing this.</AdRef_Apparel_Slag_Plate_Crude.description>
-
-
   <!-- Slag_Plate_Improved -->
-
   <AdRef_Apparel_Slag_Plate_Improved.label>Improved Slag Plate Armour</AdRef_Apparel_Slag_Plate_Improved.label>
   <AdRef_Apparel_Slag_Plate_Improved.description>An improvement of the crude slag plate armour, it's very effective in gunfights. Flexible joints allow reduced encumbrance. Spikes and paint increase the wearer's badassitude by a factor of +2!</AdRef_Apparel_Slag_Plate_Improved.description>
-
-
   <!-- Slag_Helm_Crude -->
-
   <AdRef_Apparel_Slag_Helm_Crude.label>Crude Slag Helmet</AdRef_Apparel_Slag_Helm_Crude.label>
   <AdRef_Apparel_Slag_Helm_Crude.description>A crude helmet shaped from recycled slag. It's effective, but neck cramps are guaranteed due to its weight. The thick plate offer a good protection against gunshots, just avoid melee since you can't see anything.</AdRef_Apparel_Slag_Helm_Crude.description>
-
-
   <!-- Slag_Helm_Improved -->
-
   <AdRef_Apparel_Slag_Helm_Improved.label>Improved Slag Helmet</AdRef_Apparel_Slag_Helm_Improved.label>
   <AdRef_Apparel_Slag_Helm_Improved.description>An improvement of the crude slag helmet. It has a skull painted on it! Guaranteed to make the wearer feel like an Army of Two.</AdRef_Apparel_Slag_Helm_Improved.description>
-
-
 </LanguageData>

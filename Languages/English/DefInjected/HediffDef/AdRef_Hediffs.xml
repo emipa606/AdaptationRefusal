@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <AdRef_HeDiffs_SynthMealEffect.label>SynthMeal Effects</AdRef_HeDiffs_SynthMealEffect.label>
   <AdRef_HeDiffs_SynthMealEffect.stages.0.label>1%</AdRef_HeDiffs_SynthMealEffect.stages.0.label>
   <AdRef_HeDiffs_SynthMealEffect.stages.1.label>2%</AdRef_HeDiffs_SynthMealEffect.stages.1.label>
   <AdRef_HeDiffs_SynthMealEffect.stages.2.label>3%</AdRef_HeDiffs_SynthMealEffect.stages.2.label>
   <AdRef_HeDiffs_SynthMealEffect.stages.3.label>4%</AdRef_HeDiffs_SynthMealEffect.stages.3.label>
   <AdRef_HeDiffs_SynthMealEffect.stages.4.label>5%</AdRef_HeDiffs_SynthMealEffect.stages.4.label>
-
-
 </LanguageData>
