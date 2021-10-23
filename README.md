@@ -1,6 +1,6 @@
 # AdaptationRefusal
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of milons mod
 https://ludeon.com/forums/index.php?topic=16995.0
@@ -9,19 +9,10 @@ https://ludeon.com/forums/index.php?topic=5717.0
 Then updated by sulusdacor
 https://steamcommunity.com/sharedfiles/filedetails/?id=1255638096
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/AdaptationRefusal]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 not doing anymore updates for any rimworld mods.
@@ -79,7 +70,7 @@ https://ludeon.com/forums/index.php?topic=38010
 Dropbox link to folder with old mods in forum topic for the mod.
 Changelog in forumtopic or about folder of mod.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

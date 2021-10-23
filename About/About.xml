@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Adaptation Refusal (Continued)</name>
   <packageId>Mlie.AdaptationRefusal</packageId>
@@ -12,7 +12,7 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of milons mod
 https://ludeon.com/forums/index.php?topic=16995.0
 Later updated by Krantz86
@@ -20,7 +20,7 @@ https://ludeon.com/forums/index.php?topic=5717.0
 Then updated by sulusdacor
 https://steamcommunity.com/sharedfiles/filedetails/?id=1255638096
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -29,7 +29,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1255638096
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 not doing anymore updates for any rimworld mods.
 
@@ -84,7 +84,7 @@ https://ludeon.com/forums/index.php?topic=38010
 Dropbox link to folder with old mods in forum topic for the mod.
 Changelog in forumtopic or about folder of mod.
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -95,4 +95,3 @@ Changelog in forumtopic or about folder of mod.
 [/list]
 </description>
 </ModMetaData>
-
