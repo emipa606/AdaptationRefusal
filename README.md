@@ -9,6 +9,8 @@ https://ludeon.com/forums/index.php?topic=5717.0
 Then updated by sulusdacor
 https://steamcommunity.com/sharedfiles/filedetails/?id=1255638096
 
+- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2574489704]Simple FX: Smoke
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	

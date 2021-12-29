@@ -47,6 +47,7 @@
     <smeltProducts>
       <Steel>20</Steel>
     </smeltProducts>
+    <smeltable>true</smeltable>
     <weaponTags>
       <li>Gun</li>
     </weaponTags>
