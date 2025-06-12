@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: upgrade assault rifle -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_a.label>upgrade assault rifle</AdRef_RecipeDefs_CraftGun_ChargeAssault_a.label>
+  <!-- EN: Convert an assault rifle into an energy weapon (Needs: 25 Steel, 5 Component). -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_a.description>Convert an assault rifle into an energy weapon (Needs: 25 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargeAssault_a.description>
+  <!-- EN: Upgrading assault rifle -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_a.jobString>Upgrading assault rifle</AdRef_RecipeDefs_CraftGun_ChargeAssault_a.jobString>
+  <!-- EN: Craft Charge Assault Rifle from Charge Pistol -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_b.label>Craft Charge Assault Rifle from Charge Pistol</AdRef_RecipeDefs_CraftGun_ChargeAssault_b.label>
+  <!-- EN: Convert a charge pistol into a charge assault rifle (Needs: 50 Steel, 5 Component). -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_b.description>Convert a charge pistol into a charge assault rifle (Needs: 50 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargeAssault_b.description>
+  <!-- EN: Converting charge pistol -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_b.jobString>Converting charge pistol</AdRef_RecipeDefs_CraftGun_ChargeAssault_b.jobString>
+  <!-- EN: Craft Charge Assault Rifle from Charge Sniper Rifle -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_c.label>Craft Charge Assault Rifle from Charge Sniper Rifle</AdRef_RecipeDefs_CraftGun_ChargeAssault_c.label>
+  <!-- EN: Convert a charge sniper rifle into a true assault weapon (Needs: 25 Steel, 5 Component). -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_c.description>Convert a charge sniper rifle into a true assault weapon (Needs: 25 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargeAssault_c.description>
+  <!-- EN: Assembling charge assault rifle -->
+  <AdRef_RecipeDefs_CraftGun_ChargeAssault_c.jobString>Assembling charge assault rifle</AdRef_RecipeDefs_CraftGun_ChargeAssault_c.jobString>
+  <!-- EN: upgrade pistol -->
+  <AdRef_RecipeDefs_CraftGun_ChargePistol.label>upgrade pistol</AdRef_RecipeDefs_CraftGun_ChargePistol.label>
+  <!-- EN: Convert a basic pistol to an energy weapon (Needs: 15 Steel, 5 Component). -->
+  <AdRef_RecipeDefs_CraftGun_ChargePistol.description>Convert a basic pistol to an energy weapon (Needs: 15 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargePistol.description>
+  <!-- EN: Upgrading pistol -->
+  <AdRef_RecipeDefs_CraftGun_ChargePistol.jobString>Upgrading pistol</AdRef_RecipeDefs_CraftGun_ChargePistol.jobString>
+  <!-- EN: upgrade bolt-action rifle -->
+  <AdRef_RecipeDefs_CraftGun_ChargeSniper.label>upgrade bolt-action rifle</AdRef_RecipeDefs_CraftGun_ChargeSniper.label>
+  <!-- EN: Convert a bolt-action rifle to an energy weapon (Needs: 25 Steel, 5 Component). -->
+  <AdRef_RecipeDefs_CraftGun_ChargeSniper.description>Convert a bolt-action rifle to an energy weapon (Needs: 25 Steel, 5 Component).</AdRef_RecipeDefs_CraftGun_ChargeSniper.description>
+  <!-- EN: Upgrading bolt-action rifle -->
+  <AdRef_RecipeDefs_CraftGun_ChargeSniper.jobString>Upgrading bolt-action rifle</AdRef_RecipeDefs_CraftGun_ChargeSniper.jobString>
+</LanguageData>

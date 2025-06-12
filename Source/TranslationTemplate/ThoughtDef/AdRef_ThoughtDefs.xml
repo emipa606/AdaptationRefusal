@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ate a synth meal -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Ate_a_synth_meal.label>Ate a synth meal</AdRef_ThoughtDef_AteSynthMeal.stages.Ate_a_synth_meal.label>
+  <!-- EN: UGH! That was DISGUSTING!! I'm never touching a synth meal again! -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Ate_a_synth_meal.description>UGH! That was DISGUSTING!! I'm never touching a synth meal again!</AdRef_ThoughtDef_AteSynthMeal.stages.Ate_a_synth_meal.description>
+  <!-- EN: Ate another synth meal -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Ate_another_synth_meal.label>Ate another synth meal</AdRef_ThoughtDef_AteSynthMeal.stages.Ate_another_synth_meal.label>
+  <!-- EN: Yuck! Why did I do that? -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Ate_another_synth_meal.description>Yuck! Why did I do that?</AdRef_ThoughtDef_AteSynthMeal.stages.Ate_another_synth_meal.description>
+  <!-- EN: Getting used to synth meals -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Getting_used_to_synth_meals.label>Getting used to synth meals</AdRef_ThoughtDef_AteSynthMeal.stages.Getting_used_to_synth_meals.label>
+  <!-- EN: I keep eating synth meals. Why do I do that? But it wasn't as bad as I expected it to be. Maybe I'm getting used to them? -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Getting_used_to_synth_meals.description>I keep eating synth meals. Why do I do that? But it wasn't as bad as I expected it to be. Maybe I'm getting used to them?</AdRef_ThoughtDef_AteSynthMeal.stages.Getting_used_to_synth_meals.description>
+  <!-- EN: Ate too many synth meals -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Ate_too_many_synth_meals.label>Ate too many synth meals</AdRef_ThoughtDef_AteSynthMeal.stages.Ate_too_many_synth_meals.label>
+  <!-- EN: I'm starting to have dreams about synth meals... That's scary! Right? -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Ate_too_many_synth_meals.description>I'm starting to have dreams about synth meals... That's scary! Right?</AdRef_ThoughtDef_AteSynthMeal.stages.Ate_too_many_synth_meals.description>
+  <!-- EN: Addicted to synth meals -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Addicted_to_synth_meals.label>Addicted to synth meals</AdRef_ThoughtDef_AteSynthMeal.stages.Addicted_to_synth_meals.label>
+  <!-- EN: *Hums happily*\n\n(This is either a happy drone or the early stages of heavy metal toxicity) -->
+  <AdRef_ThoughtDef_AteSynthMeal.stages.Addicted_to_synth_meals.description>*Hums happily*
+
+(This is either a happy drone or the early stages of heavy metal toxicity)</AdRef_ThoughtDef_AteSynthMeal.stages.Addicted_to_synth_meals.description>
+</LanguageData>

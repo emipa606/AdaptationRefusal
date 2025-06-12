@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Charge shot -->
+  <AdRef_Bullet_ChargePistol.label>Charge shot</AdRef_Bullet_ChargePistol.label>
+  <!-- EN: Charge shot -->
+  <AdRef_BulletChargeAssault.label>Charge shot</AdRef_BulletChargeAssault.label>
+  <!-- EN: Charge shot -->
+  <AdRef_BulletChargeSniper.label>Charge shot</AdRef_BulletChargeSniper.label>
+  <!-- EN: Charge Assault Rifle -->
+  <AdRef_Gun_ChargeAssault.label>Charge Assault Rifle</AdRef_Gun_ChargeAssault.label>
+  <!-- EN: An ancient assault rifle converted into an energy weapon. The ammunition has been replaced with a self-charging bacertia battery and the structure has been heavily reinforced. Greatly increased damage and accuracy. Less range and burst count, but fires very quickly. -->
+  <AdRef_Gun_ChargeAssault.description>An ancient assault rifle converted into an energy weapon. The ammunition has been replaced with a self-charging bacertia battery and the structure has been heavily reinforced. Greatly increased damage and accuracy. Less range and burst count, but fires very quickly.</AdRef_Gun_ChargeAssault.description>
+  <!-- EN: Charge Assault Rifle -->
+  <AdRef_Gun_ChargeAssault.verbs.Verb_Shoot.label>Charge Assault Rifle</AdRef_Gun_ChargeAssault.verbs.Verb_Shoot.label>
+  <!-- EN: Charge Pistol -->
+  <AdRef_Gun_ChargePistol.label>Charge Pistol</AdRef_Gun_ChargePistol.label>
+  <!-- EN: An ancient pistol converted into an energy weapon. The ammunition has been replaced with a self-charging bacteria battery and the barrel has been reinforced. It's still a short range weapon, but deadlier. -->
+  <AdRef_Gun_ChargePistol.description>An ancient pistol converted into an energy weapon. The ammunition has been replaced with a self-charging bacteria battery and the barrel has been reinforced. It's still a short range weapon, but deadlier.</AdRef_Gun_ChargePistol.description>
+  <!-- EN: Charge Pistol -->
+  <AdRef_Gun_ChargePistol.verbs.Verb_Shoot.label>Charge Pistol</AdRef_Gun_ChargePistol.verbs.Verb_Shoot.label>
+  <!-- EN: Charge Sniper Rifle -->
+  <AdRef_Gun_ChargeSniper.label>Charge Sniper Rifle</AdRef_Gun_ChargeSniper.label>
+  <!-- EN: An ancient rifle converted into an energy weapon. The cartridge chamber has been replaced with a self-charging bacteria battery and the scope has been greatly improved. Very good range, Good power, low rate of fire. -->
+  <AdRef_Gun_ChargeSniper.description>An ancient rifle converted into an energy weapon. The cartridge chamber has been replaced with a self-charging bacteria battery and the scope has been greatly improved. Very good range, Good power, low rate of fire.</AdRef_Gun_ChargeSniper.description>
+  <!-- EN: Charge Sniper Rifle -->
+  <AdRef_Gun_ChargeSniper.verbs.Verb_Shoot.label>Charge Sniper Rifle</AdRef_Gun_ChargeSniper.verbs.Verb_Shoot.label>
+</LanguageData>

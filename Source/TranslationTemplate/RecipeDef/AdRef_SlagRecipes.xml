@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Craft Steel Slag -->
+  <AdRef_RecipeDefs_Craft_Steel_Slag.label>Craft Steel Slag</AdRef_RecipeDefs_Craft_Steel_Slag.label>
+  <!-- EN: Craft steel slag.(makes 1 slag) -->
+  <AdRef_RecipeDefs_Craft_Steel_Slag.description>Craft steel slag.(makes 1 slag)</AdRef_RecipeDefs_Craft_Steel_Slag.description>
+  <!-- EN: Crafting -->
+  <AdRef_RecipeDefs_Craft_Steel_Slag.jobString>Crafting</AdRef_RecipeDefs_Craft_Steel_Slag.jobString>
+</LanguageData>

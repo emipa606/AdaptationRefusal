@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: craft at AR.backalley -->
+  <AdRef_WorkGiverDefs_DoBillsBackalley.label>craft at AR.backalley</AdRef_WorkGiverDefs_DoBillsBackalley.label>
+  <!-- EN: assembling -->
+  <AdRef_WorkGiverDefs_DoBillsBackalley.gerund>assembling</AdRef_WorkGiverDefs_DoBillsBackalley.gerund>
+  <!-- EN: craft -->
+  <AdRef_WorkGiverDefs_DoBillsBackalley.verb>craft</AdRef_WorkGiverDefs_DoBillsBackalley.verb>
+  <!-- EN: crafting -->
+  <AdRef_WorkGiverDefs_DoBillsBacteriaBatteryLarge.gerund>crafting</AdRef_WorkGiverDefs_DoBillsBacteriaBatteryLarge.gerund>
+  <!-- EN: craft -->
+  <AdRef_WorkGiverDefs_DoBillsBacteriaBatteryLarge.verb>craft</AdRef_WorkGiverDefs_DoBillsBacteriaBatteryLarge.verb>
+  <!-- EN: craft at AR.small battery -->
+  <AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.label>craft at AR.small battery</AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.label>
+  <!-- EN: crafting -->
+  <AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.gerund>crafting</AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.gerund>
+  <!-- EN: craft -->
+  <AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.verb>craft</AdRef_WorkGiverDefs_DoBillsBacteriaBatterySmall.verb>
+  <!-- EN: collecting -->
+  <AdRef_WorkGiverDefs_DoBillsElectro.gerund>collecting</AdRef_WorkGiverDefs_DoBillsElectro.gerund>
+  <!-- EN: collect -->
+  <AdRef_WorkGiverDefs_DoBillsElectro.verb>collect</AdRef_WorkGiverDefs_DoBillsElectro.verb>
+  <!-- EN: canning -->
+  <AdRef_WorkGiverDefs_DoBillsKryll.gerund>canning</AdRef_WorkGiverDefs_DoBillsKryll.gerund>
+  <!-- EN: can -->
+  <AdRef_WorkGiverDefs_DoBillsKryll.verb>can</AdRef_WorkGiverDefs_DoBillsKryll.verb>
+  <!-- EN: synthesizing -->
+  <AdRef_WorkGiverDefs_DoBillsSynthMeal.gerund>synthesizing</AdRef_WorkGiverDefs_DoBillsSynthMeal.gerund>
+  <!-- EN: prepare -->
+  <AdRef_WorkGiverDefs_DoBillsSynthMeal.verb>prepare</AdRef_WorkGiverDefs_DoBillsSynthMeal.verb>
+</LanguageData>
